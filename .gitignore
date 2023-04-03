@@ -1,21 +1,19 @@
-# Built application files
+Built application files
 *.apk
 *.aar
 *.ap_
-*.aab
-
-# Files for the ART/Dalvik VM
+*.aabvik VM
 *.dex
 
-# Java class files
+Java class files
 *.class
 
-# Generated files
+Generated files
 bin/
 gen/
 out/
-#  Uncomment the following line in case you need and you don't have the release build type files in your app
-# release/
+ Uncomment the following line in case you need and you don't have the release build type files in your app
+ release/
 
 # Gradle files
 .gradle/
